@@ -1,0 +1,6 @@
+Tesseract.js 6.0.1 — Apache-2.0 — https://github.com/naptha/tesseract.js
+Tesseract.js-core 6.1.2 — Apache-2.0 — https://github.com/naptha/tesseract.js-core
+@tesseract.js-data/jpn 1.0.0 — MIT — https://github.com/naptha/tessdata
+@tesseract.js-data/chi_sim 1.0.0 — MIT — https://github.com/naptha/tessdata
+Language data: https://github.com/tesseract-ocr/tessdata — Apache-2.0
+The Apache-2.0 license text is included in this folder.
